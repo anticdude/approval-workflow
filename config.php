@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'approval_workflow');
+define('DB_USER', 'u831088057_sreworkflow');
+define('DB_PASS', 'Anakaya@05');
+define('DB_NAME', 'u831088057_sreworkflow');
 
 // Create database connection
 function getDBConnection() {
